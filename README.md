@@ -10,12 +10,12 @@ Dimensionality Reduction: Conducted PCA to reduce dimensionality and facilitate 
 Visualization: Created scatter plots to visualize the customer clusters in 2D space.
 
 Tools & Technologies
-Python
-Pandas
-NumPy
-Scikit-learn (KMeans, PCA)
-Matplotlib
-Seaborn
+- Python
+- Pandas
+- NumPy
+- Scikit-learn (KMeans, PCA)
+- Matplotlib
+- Seaborn
 
 Results
 Successfully segmented 9,000 credit card users into 7 clusters.
